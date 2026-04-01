@@ -26,5 +26,5 @@ kotlin {
     jvmToolchain(11)
 }
 application {
-    mainClass.set("ApplicationKt")
+    mainClass.set("com.akilincarslan.ApplicationKt")
 }
